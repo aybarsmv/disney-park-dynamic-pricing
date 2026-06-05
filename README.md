@@ -108,12 +108,15 @@ tests/        → unit tests
 ```
 
 ---
+## 📈 Demand Curve Visualization
+
+![Demand Curve](images/demand_curve.png)
 
 ## 🚀 Quickstart
 
 ```bash
 git clone https://github.com/aybarsmv/disney-park-dynamic-pricing.git
-cd experience-driven-dynamic-pricing
+cd disney-park-dynamic-pricing
 pip install -r requirements.txt
 
 python scripts/generate_dataset.py     # 1) build the synthetic data
