@@ -112,7 +112,7 @@ tests/        → unit tests
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/<your-username>/experience-driven-dynamic-pricing.git
+git clone https://github.com/aybarsmv/disney-park-dynamic-pricing.git
 cd experience-driven-dynamic-pricing
 pip install -r requirements.txt
 
