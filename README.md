@@ -126,12 +126,11 @@ python -m pytest -q                     # (optional) run the test suite
 
 ## 👤 About the Author
 
-**[Your Name]** — Data Scientist · Behavioral Economist · Marketing Strategist
+**Aybars Mavi** — Data Scientist · Behavioral Economist · Marketing Strategist
 
-Bridging **quantitative pricing science** and **behavioral marketing** to turn
-data into decisions that grow revenue *and* delight customers.
+Bridging **quantitative pricing science** and **behavioral marketing** to turn data into decisions that grow revenue *and* delight customers.
 
-📫 [LinkedIn](#) · [Portfolio](#) · [Email](#)
+📫 [GitHub](https://github.com/aybarsmv) · [Email](mailto:aybarsmv@gmail.com)
 
 <div align="center">
 
